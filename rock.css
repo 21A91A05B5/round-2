@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.choices {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.choice {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#result {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
